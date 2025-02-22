@@ -28,7 +28,7 @@ Access the application at http://localhost:8080.
 API Documentation:
 Access Swagger UI at http://localhost:8080/swagger-ui.html
 yaml
-Copier
+
 
 ---
 
