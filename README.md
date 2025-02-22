@@ -11,17 +11,17 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ticket-management.git
-   cd ticket-management
+   git clone https://github.com/anasss1/demo.git
+   cd demo
 Build the application:
 
 bash
-Copier
+
 mvn clean install
 Run Docker containers:
 
 bash
-Copier
+
 docker-compose up
 Access the application at http://localhost:8080.
 
