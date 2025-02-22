@@ -1,7 +1,14 @@
 package com.example;
 
-public class Main {
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TicketManagementSystemApplication {
+
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        // Start the Spring Boot application
+        SpringApplication.run(TicketManagementSystemApplication.class, args);
     }
 }
